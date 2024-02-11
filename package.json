@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/BiaDd/punko-pics#readme",
+  "homepage": "https://github.com/BiaDd/punko-pics-backend#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.39.3",
     "aws-sdk": "^2.1536.0",
